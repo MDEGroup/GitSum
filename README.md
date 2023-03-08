@@ -1,4 +1,19 @@
 # GitSum guidelines
+This repository contains the source code implementation of `GitSum` and the datasets
+used to replicate the experimental results of our paper:
+
+*Too long; didn’t read: Automatic summarization of GitHub
+README.MD with Transformers*
+
+## Introduction
+`GitSum` is a novel approach to the summarization of README.MD, 
+automatically filling the blank “About” field for repositories. 
+It is built on top of BART and T5, two cutting-edge deep learning techniques,
+learning from existing data to perform recommendations 
+for repositories with a missing description. 
+We test its performance using two datasets collected from GitHub. 
+The evaluation shows that GitSum can generate highly relevant predictions, 
+outperforming a well-established baseline.
 
 ## Pre-requisites:
 Installing neccessary packages:
