@@ -5,6 +5,14 @@ used to replicate the experimental results of our paper:
 *Too long; didn’t read: Automatic summarization of GitHub
 README.MD with Transformers*
 
+Thu T. H. Doan,<sup>(1)</sup> Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio<sup>(2)</sup>
+
+
+<sup>(1)</sup> VNU University of Engineering & Technology, Hanoi, Vietnam
+
+<sup>(1)</sup> Università degli Studi dell'Aquila, Italy
+
+
 ## Introduction
 `GitSum` is a novel approach to the summarization of README.MD, 
 automatically filling the blank “About” field for repositories. 
